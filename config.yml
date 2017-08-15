@@ -1,0 +1,6 @@
+logging:
+  level: INFO
+  loggers:
+    com.alexo: DEBUG
+
+#timestamp: 30000
